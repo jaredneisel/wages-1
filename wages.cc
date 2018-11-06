@@ -1,7 +1,7 @@
 /*
  *      Author: Jared Neisel
  *   Date: 2018-11-06
- * Description: Add Description
+ * Description: This program calculates wages for a single employee using hours and hourly rate.
  */
 
 #include <iostream>
